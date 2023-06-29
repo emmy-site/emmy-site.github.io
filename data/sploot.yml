@@ -1,8 +1,8 @@
 ####################### Banner #########################
-style: "style5 content-align-center image-position-center onload-image-fade-in onload-content-fade-right"
+style: "style5 content-align-right image-position-center onload-image-fade-in onload-content-fade-right"
 title : "In closing..."
 subtitle: |
   <br><br><br><br><br><br><br><br><br>
-  If you're looking for a pup that will bring lots of laughs and cuddles to your life, then look no further – I'm your girl! So come meet me today and let's start our life together.
+  If you're looking for a pup that will bring lots of laughs and cuddles to your life, then look no further – I'm your girl!
 #content : |
-image: "images/emmy/sploot-adoption-show.jpg"
+image: "images/emmy/sploot-adoption-show-cropped.jpg"
