@@ -9,3 +9,5 @@ dist
 .idea/
 notes.md
 *.MOV
+data/video1.yml
+public
