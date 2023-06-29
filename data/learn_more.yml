@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Learn more"
+content: |
+  If you're interested in meeting me, contact <a target="_blank" href="https://paw-rescue.org/dogs/">Partnership for Animal Welfare</a> or fill out an application by clicking the link below.
+button:
+  label: "Apply"
+  link: "https://petstablished.com/adoptions/personal-information?application_type=Adopt&form_id=13750&pet_id=1652221"
+image: "images/emmy/aslin-smile.jpg"

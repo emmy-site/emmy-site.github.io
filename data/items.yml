@@ -1,64 +1,37 @@
-title : "Items"
-content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
-style: "style1 medium onscroll-fade-in"
+title : "More about me"
+#content: |
+#
+style: "style3 small onscroll-fade-in"
 items:
-  # feature item loop
-  - name : "One"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "A Dog's Dog"
+    content:  "I play great with other pups and easily make friends at the dog park and in day care."
+    style : "style2 major fa-dog"
+
+  - name : "Sweet Girl"
+    content : "I'm a sweet girl who loves to cuddle. Physical touch is my #1 love language."
+    style : "style2 major fa-face-smile-hearts"
+
+  - name : "Must Move"
+    content : "I've got a ton of energy. Long walks and playing fetch are favorite pastimes of mine."
+    style : "style2 major fa-person-running"
+
+  - name : "Will Travel"
+    content : "I'm a pro in cars. I'll jump right into the back, take a quick look around, then lay down quietly for the journey."
     style : "style2 major fa-car"
 
-  # feature item loop
-  - name : "Two"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
+  - name : "Training In Progress"
+    content :  |
+      Housebroken, &check;. Crate-trained, &check;. Responsive to commands &#x2610; (getting there).
+    style : "style2 major fa-toilet"
 
-  # feature item loop
-  - name : "Three"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
+  - name : "Food Motivated"
+    content :  "Wave a bully stick in front of me and I'm all yours. Actually give it to me and I'll love you forever."
+    style : "style2 major fa-bone"
 
-  # feature item loop
-  - name : "Four"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-wifi"
+  - name : "Family Oriented"
+    content :  "I'm friendly around all people, especially those I know. Kids in the household shouldn't be a problem for me."
+    style : "style2 major fa-family-pants"
 
-  # feature item loop
-  - name : "Five"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-cog"
-
-  # feature item loop
-  - name : "Six"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
-
-  # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
-
-  # feature item loop
-  - name : "Eight"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
-
-  # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
-
-  # feature item loop
-  - name : "Ten"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-bolt"
-
-  # feature item loop
-  - name : "Eleven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-envelope"
-
-  # feature item loop
-  - name : "Twelve"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
+  - name : "Healthy"
+    content :  "I'm spayed, up to date on all of my shots, and have no known health issues."
+    style : "style2 major fa-notes-medical"

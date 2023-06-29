@@ -1,0 +1,44 @@
+title: "Ears!"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  One of my best features is my great big ears. They make it look like I'm a flapping flag when I sprint to chase my favorite toy - plus I can HEAR LITERALLY EVERYTHING. I'm sure they will make you smile every time you see them!
+pictures:
+  - title: ""
+    image: "images/gallery/fulls/bed.jpg"
+    thumb: "images/gallery/thumbs/bed.jpg"
+    button: "Full"
+
+  - title: ""
+    image: "images/gallery/fulls/couch-primetime.jpg"
+    thumb: "images/gallery/thumbs/couch-primetime.jpg"
+    button: "Full"
+
+  - title: ""
+    image: "images/gallery/fulls/aslin.jpg"
+    thumb: "images/gallery/thumbs/aslin.jpg"
+    button: "Full"
+
+  - title: ""
+    image: "images/gallery/fulls/bed-snuggle.jpg"
+    thumb: "images/gallery/thumbs/bed-snuggle.jpg"
+    button: "Full"
+
+  - title: ""
+    image: "images/gallery/fulls/blur.jpg"
+    thumb: "images/gallery/thumbs/blur.jpg"
+    button: "Full"
+
+  - title: ""
+    image: "images/gallery/fulls/couch-kristin.jpg"
+    thumb: "images/gallery/thumbs/couch-kristin.jpg"
+    button: "Full"
+
+  - title: ""
+    image: "images/gallery/fulls/verizon.jpg"
+    thumb: "images/gallery/thumbs/verizon.jpg"
+    button: "Full"
+
+  - title: ""
+    image: "images/gallery/fulls/couch-lookup.jpg"
+    thumb: "images/gallery/thumbs/couch-lookup.jpg"
+    button: "Full"

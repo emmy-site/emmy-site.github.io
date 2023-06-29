@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "About me"
+content: |
+  I'm an energetic, 1 year old <a target="_blank" href="https://germanshepherddoghq.com/german-shepherd-black-mouth-cur-mix/">German Shepard/Black Mouth Cur mix</a> looking for my forever home. I love to play and keep active, going on long walks and exploring. My big ears help me pick up all the interesting things I can find on my adventures.
+image: "images/emmy/emmy-park-smile.jpg"
