@@ -1,13 +1,17 @@
 {{ define "main" }}
 
 	{{ partial "banner" site.Data.banner }}
-	{{ partial "spotlight" site.Data.spotlight1 }}
-	{{ partial "spotlight" site.Data.spotlight2 }}
-	{{ partial "spotlight" site.Data.spotlight3 }}
-	{{ partial "gallery" site.Data.gallery }}
-	{{ partial "items" site.Data.items }}
-	{{ partial "elements" . }}
-	{{ partial "elements_reference" . }}
+	{{ partial "spotlight" site.Data.about_me }}
+	{{ partial "spotlight" site.Data.about_you }}
+
+	{{ partial "gallery" site.Data.ears }}
+
+  {{ partial "items" site.Data.items }}
+
+	{{ partial "banner" site.Data.sploot }}
+
+	{{ partial "spotlight" site.Data.learn_more }}
+
 	{{ partial "footer" . }}
 
 {{ end }}
